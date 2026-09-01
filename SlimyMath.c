@@ -35,7 +35,7 @@ int s_round(float a)
     }
 };
 
-int s_power(int basis, int exponent)
+float s_power(int basis, int exponent)
 {
     if (exponent == 0) {
         return 1;

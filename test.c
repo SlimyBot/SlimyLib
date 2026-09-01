@@ -6,7 +6,7 @@
 
 int main() {
 
-    int test = s_sum(LowestNumber, HighestNumber);
+    int test = s_power(2, -3);
 
     //float:printf("result: %f", test);
     //integer:
