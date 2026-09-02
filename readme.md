@@ -10,6 +10,7 @@ s_min(5, 10) //5 - find lowest value
 s_max(5, 10) //10 - find highest value
 s_factorial(3) //6 - calculate the factorial of n
 s_round(5.5) //6 - round a number up or down
+s_sqrt(4) //2 - square root of n
 
 ```
 
